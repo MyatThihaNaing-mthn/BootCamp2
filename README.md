@@ -9,25 +9,29 @@ README.md
 
 Numpy is a Python Library for dealing with numerical useful python package.
 
-Use the package manager [numpy](-) to install numpy package.[Google]
+Use the package manager [numpy](www.numpy.com) to install numpy package.[Google](www.google.com)
 
 
-
+```bash
 pip install numpy
+```
 
 ##usage
 
-```python
+```
+python
 import numpy
-numpy.pluralized('image') # return 'image'
-numpy.pluralized('goose') # return 'geese'
-numpy.pluralized('phenomena') # return 'phenomenon'
+numpy.pluralized('image') # returns 'image'
+numpy.pluralized('goose') # returns 'geese'
+numpy.singularize('phenomena') # returns 'phenomenon'
 
+```
+![Google](https://i2.cdn.turner.com/money/dam/assets/150831165121-google-05-31-1999-to-05-05-2010-640x640.png)
 
 ##contributing
 
 ```
-Pull request are Welcome. For major Changes, please open an issure first to discuss what you would like to change.
+Pull requests are Welcome. For major Changes, please open an issure first to discuss what you would like to change.
 ```
 
 ```
@@ -52,10 +56,16 @@ Please make sure to update tests as appropriate.
 
 
 ```diff
--text in red
-+text in green
-!text in orange
-#text in grey
+-apple
++grass
+!orange
+#smoke
+$ test1
+% test2
+^ test3
+& test4
+* test5
+
 ```
 
 ```diff
