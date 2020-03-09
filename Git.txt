@@ -1,0 +1,32 @@
+Git.txt
+
+username -	btainseeddeveloper
+email -	brainseed.developer@gmail.com
+password -	*@#*)#)@
+Step1:	Git Download
+Step2:	Git Installation
+Step3:	Github Account Creation
+Step4:	Git Repository
+Step5:	A File to upload on github
+Step6:	Git Command Line
+
+cd Path - Go to Directory
+
+First Time (New Repository)
+			git init
+			git add .
+			git config --global user.email "useremail"
+			git config --global user.name "username"
+			
+			git commit -m "first commit"
+			git remote add origin "https://github.com/brainseeddeveloper/Sample.git"
+			git push -u origin master
+
+(New Repository For new project)
+			git init
+			git add .
+			git commit -m "first commit"
+			git remote add origin "https://github.com/brainseeddeveloper/Sample.git"
+			git push -u origin master
+
+(Old Reposit)
