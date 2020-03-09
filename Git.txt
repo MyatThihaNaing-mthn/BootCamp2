@@ -1,8 +1,8 @@
 Git.txt
 
-username -	btainseeddeveloper
-email -	brainseed.developer@gmail.com
-password -	*@#*)#)@
+username -	MyatThihaNaing-mthn
+email -	myatthihanaing.mthn@gmail.com
+password -	Myatthiha125
 Step1:	Git Download
 Step2:	Git Installation
 Step3:	Github Account Creation
@@ -29,4 +29,21 @@ First Time (New Repository)
 			git remote add origin "https://github.com/brainseeddeveloper/Sample.git"
 			git push -u origin master
 
-(Old Reposit)
+(Old Repository)
+			git add .
+			git commit -m ""
+			git push
+
+
+(Origin Repo for Origin Laptop)
+			git pull
+
+(Existing Project to other laptop)
+			git init
+			git pull https://github.com/MyatThihaNaing-mthn/BootCamp2.git
+
+
+(other person project to own laptop)
+			git clone https://github.com/MyatThihaNaing-mthn/BootCamp2.git
+
+https://github.com/brainseeddeveloper/BootCamp2
