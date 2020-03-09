@@ -17,7 +17,7 @@ pip install numpy
 
 ##usage
 
-'''python
+```python
 import numpy
 numpy.pluralized('image') # return 'image'
 numpy.pluralized('goose') # return 'geese'
@@ -26,17 +26,17 @@ numpy.pluralized('phenomena') # return 'phenomenon'
 
 ##contributing
 
-'''
+```
 Pull request are Welcome. For major Changes, please open an issure first to discuss what you would like to change.
-'''
+```
 
-'''
+```
 Make Software. For Major Changes, Please open the new World.
-'''
+```
 
-'''python
+```python
 from math import pi
-'''
+```
 
 -numpy
 
@@ -51,14 +51,14 @@ Please make sure to update tests as appropriate.
 -![#FF0000]'RED'
 
 
-'''diff
+```diff
 -text in red
 +text in green
 !text in orange
 #text in grey
-'''
+```
 
-''diff
+```diff
 -text
 +word
 !character
