@@ -1,0 +1,17 @@
+# pip
+
+# a package manager for python packages
+# containa all the files you need for a module
+
+pip --version							= version check
+pip install								= pip installation
+python -m pip install -- upgrage ipi	= pip upgrade
+--user									= User Permission
+pip install numpy						= numpy install
+pip install -r requirements.txt			= read the text file'
+python -m pip uninstall pip				= uninstall pip
+pip unistall pip						= unistall package
+--no-warn-script-location				= For Path Script
+pip list 								= python pip list
+pip freeze 								= halt the running packages
+
