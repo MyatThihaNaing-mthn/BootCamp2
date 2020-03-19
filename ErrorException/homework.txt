@@ -1,0 +1,9 @@
+Char		Hex		Dec		Bin
+H 
+O
+W
+A
+L
+I
+V
+E
