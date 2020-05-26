@@ -1,4 +1,4 @@
-List.py
+#List.py
 
 List = []
 
@@ -24,3 +24,6 @@ len(word)
 square = 'Square'
 len(square)
 len(word) + len(square)
+
+print(word[0:])
+print(word[::-1])
